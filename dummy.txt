@@ -6,4 +6,3 @@ It consists of two major parts:
 
 > A build command that bundles your code with Rollup, pre-configured to output highly optimized static assets for production.
 
-In addition, Vite is highly extensible via its Plugin API and JavaScript API with full typing support.
